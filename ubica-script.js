@@ -1,4 +1,4 @@
-/* UBICA – aparición suave al bajar. Sin motor de scroll. */
+/* TeUbico – aparición suave al bajar. Sin motor de scroll. */
 (function () {
   "use strict";
   var els = document.querySelectorAll("[data-reveal]");
